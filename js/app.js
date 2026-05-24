@@ -1904,4 +1904,3 @@ document.getElementById('sampleFill').addEventListener('click', () => {
   bookingForm.time.value = '10:00–11:00';
   bookingForm.objectives.value = 'Interested in command and control, mobility orchestration, public safety analytics, and how the CoE supports Vision 2030-aligned destination operations.';
 });
-</script>
