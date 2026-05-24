@@ -919,4 +919,3 @@ if(document.readyState === 'loading'){
 }
 
 })();
-</script>
